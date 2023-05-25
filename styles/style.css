@@ -271,6 +271,7 @@
 }
 
 .footer__address {
+    justify-self: start;
     max-width: 240px;
     font-size: 18px;
     font-style: normal;
@@ -279,10 +280,6 @@
 
 .footer__menu {
     text-align: center;
-}
-
-.footer__address {
-    justify-self: start;
 }
 
 .footer__menu-list {
